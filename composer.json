@@ -1,0 +1,17 @@
+{
+    "name": "ricar/ramiroceciliosistemescolarv4.github.io",
+    "description": "sistemaescolar",
+    "type": "proyect",
+    "authors": [
+        {
+            "name": "ramirocecilio",
+            "email": "71830076+ramirocecilio@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.17",
+        "illuminate/events": "^8.17",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}
